@@ -1,8 +1,6 @@
 # TrashEraser
-Application in terminal (CMD/Powershell) to remove garbage from windows 10
+Application in terminal (CMD/Powershell) to remove garbage from windows 10 like stock apps, files in %temp% or even deleting OneDrive pernamently from your Windows, makes him better.
 
 
-To use this application you have to follow this steps:
+# First of All
 
-- Have windows 10 [b]at least[/b] Creators Update
-- 
