@@ -16,7 +16,7 @@ There are many programs on the market that offer this type of treatments on our 
 
 * Windows 10 Creators Update 2016 - Windows 10 Latest May Update 2020
 
-## Features
+## 💎 Features
 
 * Deleting content in %temp%. (Cleans the remains of the application installation)
 * Removes ALL Stocked apps which installed with Windows 10. (exactly about 34 applications, includes XBOX's apps)
@@ -25,7 +25,7 @@ There are many programs on the market that offer this type of treatments on our 
 * Gives top priority to the games using entries in the register. (regedit)
 * Adding regs to registry regret to TCP Delay/TcpAckFrequency to makes your intenet connection smoother.
 
-## Setup
+## 🍭 Setup
 
 1. Unpack ZIP
 2. Place at any place on your PC (only Windows 10 supported at this moment)
