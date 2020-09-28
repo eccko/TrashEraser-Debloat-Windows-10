@@ -2,7 +2,8 @@
 > Application in terminal (CMD/Powershell) to remove garbage from windows 10 like stock apps, files in %temp% or even deleting OneDrive pernamently from your Windows.
 
 ## Table of contents
-* [inspiration](#inspiration)
+* [Inspiration](#inspiration)
+* [Support](#support)
 * [Setup](#setup)
 * [Features](#features)
 * [Contact](#contact)
@@ -10,6 +11,10 @@
 ## Inspiration
 
 There are many programs on the market that offer this type of treatments on our computer. But almost all of them contain advertisements or repeated notifications about the possibility of subscribing. Here... This is not and will not be. It will always be free and the code source will be available to the public.
+
+## Support
+
+* Windows 10 Creators Update 2016 - Windows 10 Latest May Update 2020
 
 ## Features
 
