@@ -3,7 +3,7 @@
 
 ## Table of contents
 * [inspiration](#inspiration)
-* [Setup and Usage](#setup and usage)
+* [Setup](#setup)
 * [Features](#features)
 * [Contact](#contact)
 
@@ -20,7 +20,7 @@ There are many programs on the market that offer this type of treatments on our 
 * Gives top priority to the games using entries in the register. (regedit)
 * Adding regs to registry regret to TCP Delay/TcpAckFrequency to makes your intenet connection smoother.
 
-## Setup and Usage
+## Setup
 
 1. Unpack ZIP
 2. Place at any place on your PC (only Windows 10 supported at this moment)
