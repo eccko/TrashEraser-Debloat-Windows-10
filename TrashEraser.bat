@@ -37,9 +37,16 @@ if '%errorlevel%' NEQ '0' (
  rem  set __COMPAT_LAYER=RunAsInvoker  
  REGEDIT.EXE  /S  "%~dp0\reg_files\unnecessary_staff.reg
 
+ rem  set __COMPAT_LAYER=RunAsInvoker  
+ REGEDIT.EXE  /S  "%~dp0\reg_files\cortana.reg
+
+ rem  set __COMPAT_LAYER=RunAsInvoker  
+ REGEDIT.EXE  /S  "%~dp0\reg_files\defender.reg
+ 
+ rem  set __COMPAT_LAYER=RunAsInvoker  
+ REGEDIT.EXE  /S  "%~dp0\reg_files\photo_viewer.reg
 
 Del /S /F /Q %temp%
-
 
 powershell -noprofile -command "&{ start-process powershell -ArgumentList '-noprofile -executionpolicy remotesigned -file %~dp0\ps_scripts\stock_apps.ps1' -verb RunAs}"
 
