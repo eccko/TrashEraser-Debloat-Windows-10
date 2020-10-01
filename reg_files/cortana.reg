@@ -1,0 +1,20 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Windows Search]
+"PreventIndexOnBattery"=dword:00000001
+"AllowSearchToUseLocation"=dword:00000000
+"AllowCortana"=dword:00000000 
+"ConnectedSearchUseWeb"=dword:00000000
+"DisableWebSearch"=dword:00000001
+"PreventIndexingOutlook"=dword:00000001
+"PreventIndexingEmailAttachments"=dword:00000001
+"ConnectedSearchPrivacy"=dword:00000003
+"ConnectedSearchSafeSearch"=dword:00000003
+"ConnectedSearchUseWebOverMeteredConnections"=dword:00000000
+"PreventRemoteQueries"=dword:00000001
+"DisableRemovableDriveIndexing"=dword:00000001
+"ConnectedSearchUseWeb"=dword:00000000
+"BingSearchEnabled"=dword:00000000
+"CortanaConsent"=dword:00000000
+"AllowSearchToUseLocation"=dword:00000000
+"AllowCloudSearch"=dword:00000000
