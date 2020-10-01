@@ -10,7 +10,7 @@ title: by eccko
  REGEDIT.EXE  /S  "%~dp0\reg_files\disable_onedrive.reg"
 
  rem  set __COMPAT_LAYER=RunAsInvoker  
- REGEDIT.EXE  /S  "%~dp0\reg_files\unnecessary_staff.reg
+ REGEDIT.EXE  /S  "%~dp0\reg_files\unnecessary_staff.reg"
 
 
 Del /S /F /Q %temp%
