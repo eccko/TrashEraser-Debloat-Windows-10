@@ -1,18 +1,18 @@
-# TrashEraser
+# 💪TrashEraser
 > Application in terminal (CMD/Powershell) to remove garbage (include telemetry) from windows 10 like stock apps, files in %temp% or even disabling cortana but keeps searching alive.
 
-## Table of contents
+## ❔ Table of contents
 * [Inspiration](#inspiration)
 * [Support](#support)
 * [Setup](#setup)
 * [Features](#features)
 * [Contact](#contact)
 
-## Inspiration
+## 💘 Inspiration
 
 There are many programs on the market that offer this type of treatments on our computer. But almost all of them contain advertisements or repeated notifications about the possibility of subscribing. Here... This is not and will not be. It will always be free and the code source will be available to the public.
 
-## Support
+## 🌟 Support
 
 * Windows 10 (Support latest 2004 version)
 
