@@ -30,6 +30,7 @@ There are many programs on the market that offer this type of treatments on our 
 1. Unpack ZIP
 2. Place at any place on your PC (only Windows 10 supported at this moment)
 3. Run TrashEraser.bat
+4. If ask for administrastor permission pick "YES"
 
 ## Contact
 
