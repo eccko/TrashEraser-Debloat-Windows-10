@@ -12,6 +12,14 @@ title: by eccko
  rem  set __COMPAT_LAYER=RunAsInvoker  
  REGEDIT.EXE  /S  "%~dp0\reg_files\unnecessary_staff.reg"
 
+ rem  set __COMPAT_LAYER=RunAsInvoker  
+ REGEDIT.EXE  /S  "%~dp0\reg_files\cortana.reg"
+
+ rem  set __COMPAT_LAYER=RunAsInvoker  
+ REGEDIT.EXE  /S  "%~dp0\reg_files\photo_viewer.reg"
+ 
+ rem  set __COMPAT_LAYER=RunAsInvoker  
+ REGEDIT.EXE  /S  "%~dp0\reg_files\defender.reg"
 
 Del /S /F /Q %temp%
 
