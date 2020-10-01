@@ -12,6 +12,9 @@ echo github.com/eccko
 
  rem  set __COMPAT_LAYER=RunAsInvoker  
  REGEDIT.EXE  /S  "%~dp0\reg_files\unnecessary_staff.reg"
+ 
+ rem  set __COMPAT_LAYER=RunAsInvoker  
+ REGEDIT.EXE  /S  "%~dp0\reg_files\cortana.reg"
 
 
 Del /S /F /Q %temp%
