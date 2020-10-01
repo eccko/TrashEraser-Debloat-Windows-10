@@ -14,7 +14,7 @@ There are many programs on the market that offer this type of treatments on our 
 
 ## Support
 
-* Windows 10 Creators Update 2016 - Windows 10 Latest May Update 2020
+* Windows 10
 
 ## 💎 Features
 
@@ -30,7 +30,6 @@ There are many programs on the market that offer this type of treatments on our 
 1. Unpack ZIP
 2. Place at any place on your PC (only Windows 10 supported at this moment)
 3. Run TrashEraser.bat
-4. Wait until terminal says "Press any key to continue"
 
 ## Contact
 
