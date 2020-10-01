@@ -52,6 +52,10 @@ powershell -noprofile -command "&{ start-process powershell -ArgumentList '-nopr
 
 powershell -noprofile -command "&{ start-process powershell -ArgumentList '-noprofile -executionpolicy remotesigned -file %~dp0\ps_scripts\xbox.ps1' -verb RunAs}"
 
+powershell -noprofile -command "&{ start-process powershell -ArgumentList '-noprofile -executionpolicy remotesigned -file %~dp0\ps_scripts\telemetry.ps1' -verb RunAs}"
+
+powershell -noprofile -command "&{ start-process powershell -ArgumentList '-noprofile -executionpolicy remotesigned -file %~dp0\ps_scripts\onedrive.ps1' -verb RunAs}"
+
 cls
 echo TrashEraser executed successfully
 echo *****
