@@ -14,7 +14,7 @@ There are many programs on the market that offer this type of treatments on our 
 
 ## Support
 
-* Windows 10
+* Windows 10 (Support latest 2004 version)
 
 ## 💎 Features
 
