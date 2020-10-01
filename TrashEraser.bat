@@ -1,8 +1,8 @@
 @echo off
 
-title: Compilation 01.10.2020
+title: Writted by eccko
 
-echo Writed by Mateusz Tomczyk - eccko
+echo github.com/eccko
 
  rem  set __COMPAT_LAYER=RunAsInvoker  
  REGEDIT.EXE  /S  "%~dp0\reg_files\game_priority.reg"
@@ -11,7 +11,7 @@ echo Writed by Mateusz Tomczyk - eccko
  REGEDIT.EXE  /S  "%~dp0\reg_files\disable_onedrive.reg"
 
  rem  set __COMPAT_LAYER=RunAsInvoker  
- REGEDIT.EXE  /S  "%~dp0\reg_files\unnecessary_staff.reg
+ REGEDIT.EXE  /S  "%~dp0\reg_files\unnecessary_staff.reg"
 
 
 Del /S /F /Q %temp%
