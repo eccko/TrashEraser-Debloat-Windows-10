@@ -16,6 +16,8 @@ echo github.com/eccko
  rem  set __COMPAT_LAYER=RunAsInvoker  
  REGEDIT.EXE  /S  "%~dp0\reg_files\cortana.reg"
 
+ rem  set __COMPAT_LAYER=RunAsInvoker  
+ REGEDIT.EXE  /S  "%~dp0\reg_files\photo_viewer.reg"
 
 Del /S /F /Q %temp%
 
