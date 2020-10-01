@@ -23,12 +23,12 @@ There are many programs on the market that offer this type of treatments on our 
 * Restores the standard photo viewer which knows from Windows 7/8/8.1
 * Pernamantly switches off and uninstalls OneDrive.
 * Gives top priority to the games using entries in the register. (regedit)
-* Adding regs to registry regret to TCP Delay/TcpAckFrequency to makes your intenet connection smoother.
+* Debloating system of useless stuff
 
 ## 🍭 Setup
 
 1. Unpack ZIP
-2. Place at any place on your PC (only Windows 10 supported at this moment)
+2. Place at any place on your PC
 3. Run TrashEraser.bat
 4. If ask for administrastor permission pick "YES"
 
