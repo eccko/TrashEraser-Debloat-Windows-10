@@ -31,7 +31,7 @@ There are many programs on the market that offer this type of treatments on our 
 2. Place at any place on your PC
 3. Run TrashEraser.bat
 4. If ask for administrastor permission pick "YES"
-
+5. Restart PC (**IMPORANT**)
 ## Contact
 
 Feel free to contact me by mail - eccko@protonmail.com
