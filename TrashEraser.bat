@@ -45,6 +45,9 @@ if '%errorlevel%' NEQ '0' (
  
  rem  set __COMPAT_LAYER=RunAsInvoker  
  REGEDIT.EXE  /S  "%~dp0\reg_files\photo_viewer.reg
+ 
+ rem  set __COMPAT_LAYER=RunAsInvoker  
+ REGEDIT.EXE  /S  "%~dp0\reg_files\telemetry.reg
 
 Del /S /F /Q %temp%
 
