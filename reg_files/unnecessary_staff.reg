@@ -37,3 +37,6 @@ Windows Registry Editor Version 5.00
 "CdpSessionUserAuthzPolicy"=dword:00000000
 "NearShareChannelUserAuthzPolicy"=dword:00000000
 "RomeSdkChannelUserAuthzPolicy"=dword:00000000
+
+;Removing some games as stock preinstalled (?)
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{FC96B68C-09EF-4251-A598-19E4BE1B76A9}]
